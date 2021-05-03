@@ -1,0 +1,28 @@
+{
+  "name": "fastify-first",
+  "version": "1.0.0",
+  "description": "Having a first look at Fastify",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bakhtiyar-Garashov/Fastify-first.git"
+  },
+  "author": "Bakhtiyar Garashov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bakhtiyar-Garashov/Fastify-first/issues"
+  },
+  "homepage": "https://github.com/Bakhtiyar-Garashov/Fastify-first#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "fastify": "^3.15.1",
+    "fastify-autoload": "^3.7.1",
+    "fastify-plugin": "^3.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
